@@ -5,5 +5,5 @@ I do have a snek here tho, you can watch that if you want.
 
 ![snek gif](https://github.com/huantianad/huantianad/blob/output/github-contribution-grid-snake.svg)
 
-[![huantian's GitHub stats](https://github-readme-stats.vercel.app/api?username=huantianad)](https://github.com/anuraghazra/github-readme-stats)
+[![huantian's GitHub stats](https://github-readme-stats.vercel.app/api?username=huantianad)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
 
