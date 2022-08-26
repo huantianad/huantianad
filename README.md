@@ -10,10 +10,11 @@ Programmer that has a bunch of random projects on GitHub! I code in a bunch of l
 
 Thanks for checking out my profile, hope you have a nice day! 😃
 
-
+<!---
 <a href="https://discord.com/users/300050030923087872">
   <img align="right" width="400" alt="Discord Presence" src="https://lanyard.cnrad.dev/api/300050030923087872">
 </a>
+-->
 
 #### Check out my system configuration [here!](https://github.com/huantianad/nixos-config)
 
