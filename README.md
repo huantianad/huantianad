@@ -16,7 +16,7 @@ Thanks for checking out my profile, hope you have a nice day! 😃
 </a>
 -->
 
-#### Check out my system configuration [here!](https://github.com/huantianad/nixos-config)
+### Check out my NixOS system configuration [here!](https://github.com/huantianad/nixos-config)
 
 ### Rhythm Doctor related projects
 - **[levelsync](https://github.com/huantianad/levelsync)**: Automatically download and update your Rhythm Doctor levels.
